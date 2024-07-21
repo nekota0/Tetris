@@ -9,6 +9,7 @@
   a - Left
   s - Down
   d - Right
+  q - quit
 
   z - rotating block
 
