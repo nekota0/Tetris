@@ -1,4 +1,4 @@
-# Tetris
+# Tetris v0.1.0
 
 **! There is no auto falling fucntion in this program !**
 
